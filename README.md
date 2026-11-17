@@ -4,6 +4,13 @@ This repository contains eight C++ sequence-alignment implementations, their
 input datasets and recorded results, and a plot comparing the implementations'
 runtime.
 
+## Team
+
+| Name | Registration number |
+|---|---:|
+| Nivas Ravate | 241080058 |
+| Siddharth Pandey | 241080048 |
+
 ## Runtime comparison
 
 The chart below summarizes the five runs recorded for each implementation.
