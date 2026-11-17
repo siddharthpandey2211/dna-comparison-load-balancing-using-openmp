@@ -1,0 +1,40 @@
+========== RUN 1 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Number of threads: 12
+Execution time: 1319.84 ms
+Scheduling overhead: 0.0325 ms
+Total stolen tasks: 4
+Load imbalance: 5.96961%
+========== RUN 2 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Number of threads: 12
+Execution time: 1288.32 ms
+Scheduling overhead: 0.033 ms
+Total stolen tasks: 5
+Load imbalance: 6.03082%
+========== RUN 3 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Number of threads: 12
+Execution time: 1260.74 ms
+Scheduling overhead: 0.0318 ms
+Total stolen tasks: 6
+Load imbalance: 8.36965%
+========== RUN 4 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Number of threads: 12
+Execution time: 1297.87 ms
+Scheduling overhead: 0.0361 ms
+Total stolen tasks: 10
+Load imbalance: 13.1551%
+========== RUN 5 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Number of threads: 12
+Execution time: 1355.21 ms
+Scheduling overhead: 0.0346 ms
+Total stolen tasks: 11
+Load imbalance: 15.936%

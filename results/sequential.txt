@@ -1,0 +1,20 @@
+========== RUN 1 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Sequential execution time: 2922.89 ms
+========== RUN 2 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Sequential execution time: 2675.62 ms
+========== RUN 3 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Sequential execution time: 2703.19 ms
+========== RUN 4 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Sequential execution time: 2663.69 ms
+========== RUN 5 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Sequential execution time: 2689.58 ms

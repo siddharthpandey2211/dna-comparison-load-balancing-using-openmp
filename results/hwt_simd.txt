@@ -1,0 +1,40 @@
+========== RUN 1 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Number of threads: 12
+Alpha: 0.75
+Static head tasks: 552
+Reservoir tasks: 448
+Execution time: 155.178 ms
+========== RUN 2 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Number of threads: 12
+Alpha: 0.75
+Static head tasks: 552
+Reservoir tasks: 448
+Execution time: 150.492 ms
+========== RUN 3 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Number of threads: 12
+Alpha: 0.75
+Static head tasks: 552
+Reservoir tasks: 448
+Execution time: 151.302 ms
+========== RUN 4 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Number of threads: 12
+Alpha: 0.75
+Static head tasks: 552
+Reservoir tasks: 448
+Execution time: 156.402 ms
+========== RUN 5 ==========
+Total pairs aligned: 1000
+Total alignment score: 132926
+Number of threads: 12
+Alpha: 0.75
+Static head tasks: 552
+Reservoir tasks: 448
+Execution time: 153.252 ms
