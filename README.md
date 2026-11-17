@@ -15,7 +15,7 @@ runtime.
 
 The chart below summarizes the five runs recorded for each implementation.
 
-![Runtime comparison of all 8 implementations](plot/runtime_comparison.png)
+[![Runtime comparison of all 8 implementations](https://siddharthpandey2211.github.io/dna-comparison-load-balancing-using-openmp/plot/runtime_comparison.png)](https://siddharthpandey2211.github.io/dna-comparison-load-balancing-using-openmp/)
 
 The interactive project page is published with GitHub Pages.
 
